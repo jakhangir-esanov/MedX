@@ -1,12 +1,11 @@
 ﻿using AutoMapper;
-using MedX.Data.IRepositories;
-using MedX.Domain.Configurations;
 using MedX.Domain.Entities;
-using MedX.Domain.Enums;
-using MedX.Service.DTOs.Treatments;
+using MedX.Data.IRepositories;
 using MedX.Service.Exceptions;
 using MedX.Service.Extensions;
 using MedX.Service.Interfaces;
+using MedX.Domain.Configurations;
+using MedX.Service.DTOs.Treatments;
 using Microsoft.EntityFrameworkCore;
 
 namespace MedX.Service.Services;
@@ -112,6 +111,7 @@ public class TreatmentService : ITreatmentService
 
         return this.mapper.Map<TreatmentResultDto>(existTreatment);
     }
+
     public async Task<TreatmentResultDto> GetAsync(long id)
     {
         var existTreatment = await this.treatmentRepository.GetAsync(r => r.Id == id, includes: new[] { "Doctor", "Patient", "Room" })
