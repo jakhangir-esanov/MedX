@@ -31,7 +31,7 @@ MedX leverages modern technologies, including [list the technologies you've used
 
 ## Database structure
 
-![](file:///C:/Users/ROG%20STRIX/Downloads/Telegram%20Desktop/image_2023-10-03_16-39-14.png)
+![](https://github.com/jakhangir-esanov/Game-2048/assets/123545476/2157e26b-f324-42d3-9ae7-755eccd5ea89)
 
 ## Contributing
 We welcome contributions to enhance MedX and make it more effective. If you'd like to contribute, please follow our [Contribution Guidelines](CONTRIBUTING.md).
