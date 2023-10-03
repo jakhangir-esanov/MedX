@@ -31,7 +31,7 @@ MedX leverages modern technologies, including [list the technologies you've used
 
 ## Database structure
 
-[](https://www.ormacode.organicdatanetwork.net/fileadmin/_processed_/3/e/csm_ormacode-database-structure-fig1_01_2c0d024584.jpg)
+![](https://www.ormacode.organicdatanetwork.net/fileadmin/_processed_/3/e/csm_ormacode-database-structure-fig1_01_2c0d024584.jpg)
 
 ## Contributing
 We welcome contributions to enhance MedX and make it more effective. If you'd like to contribute, please follow our [Contribution Guidelines](CONTRIBUTING.md).
