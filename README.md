@@ -29,6 +29,10 @@ git clone https://github.com/Greedevs/MedX.git
 ## Technologies Used
 MedX leverages modern technologies, including [list the technologies you've used here].
 
+## Database structure
+
+file:///C:/Users/ROG%20STRIX/Downloads/Telegram%20Desktop/image_2023-10-03_16-39-14.png
+
 ## Contributing
 We welcome contributions to enhance MedX and make it more effective. If you'd like to contribute, please follow our [Contribution Guidelines](CONTRIBUTING.md).
 
